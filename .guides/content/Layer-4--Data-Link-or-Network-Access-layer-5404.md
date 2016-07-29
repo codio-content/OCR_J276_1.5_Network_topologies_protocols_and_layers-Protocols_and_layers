@@ -6,6 +6,6 @@ The data link layer is concerned with transmitting the data to devices on the lo
 
 Data being transmitted and received passes through these layers at the sending and receiving computers.
 
-![](.guides/img/router.png)
+![](.guides/img/route.png)
 
 ![](.guides/img/pc.png)
