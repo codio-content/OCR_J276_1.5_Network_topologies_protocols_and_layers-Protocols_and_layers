@@ -1,0 +1,106 @@
+{
+ "sections": [
+  {
+   "id": "c3c0d6d5-c060-025e-cb7e-759f88cfc279",
+   "title": "Introduction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-c3c0.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f9adf7b0-44bf-0906-64c6-ae2af0cc14f3",
+   "title": "TCP/IP",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/TCP-IP-f9ad.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6d6b7db8-c683-d337-f96d-1329aae9e357",
+   "title": "Layer 1: Application layer",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Layer-1--Application-layer-6d6b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2f9e4c8c-f609-2cc6-1866-f36635a48469",
+   "title": "Layer 2: Transport layer",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Layer-2--Transport-layer-2f9e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a7de385b-1036-4b95-875e-3b31e4354050",
+   "title": "Layer 3: Internet layer",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Layer-3--Internet-layer-a7de.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "54040380-2966-3cbf-3ef1-a70cf670a02c",
+   "title": "Layer 4: Data Link or Network Access layer",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Layer-4--Data-Link-or-Network-Access-layer-5404.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7eb5f2db-51c8-158b-b5ee-1756bd551318",
+   "title": "Network layers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Network-layers-7eb5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ad9831ee-53d4-59cc-d7f3-b39d89940896",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-ad98.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a93639d6-df40-627f-ee69-15e0fa390f9f",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-a936.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
