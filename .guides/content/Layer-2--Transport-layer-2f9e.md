@@ -2,5 +2,6 @@ This layer is concerned with computer-to-computer-communication and establishing
 
 ## Protocols of the Transport layer
 
-- **TCP** – Transmission Control Protocol: it divides the data into packets of the correct size. It also checks that the packets have arrived safely or if there are any data errors.
-If data is being received it sends an acknowledgement.
+- **TCP** –  Transmission Control Protocol: it divides the data into packets of the correct size. It also checks the packets as they arrive. If they do not arrive safely or there are any data errors then it asks for them to be re-transmitted. If data is received correctly then it sends an acknowledgement.
+
+

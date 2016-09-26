@@ -8,4 +8,3 @@ Data being transmitted and received passes through these layers at the sending a
 
 ![](.guides/img/route.png)
 
-![](.guides/img/pc.png)
